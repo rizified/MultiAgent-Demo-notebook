@@ -1,0 +1,21 @@
+id,category,sub-category,item_name,is_modifier,default_option,stock_status,price,description
+1,Drinks,Coffee Drinks,Espresso,FALSE,,In Stock,3.00,
+2,Drinks,Coffee Drinks,Americano,FALSE,,In Stock,3.50,
+3,Drinks,Coffee Drinks,Cold Brew,FALSE,,In Stock,4.00,
+4,Drinks,Coffee Drinks with Milk,Latte,FALSE,,In Stock,4.50,
+5,Drinks,Coffee Drinks with Milk,Cappuccino,FALSE,,In Stock,4.00,
+6,Drinks,Coffee Drinks with Milk,Cortado,FALSE,,In Stock,3.75,
+7,Drinks,Coffee Drinks with Milk,Macchiato,FALSE,,In Stock,3.50,
+8,Drinks,Coffee Drinks with Milk,Mocha,FALSE,,In Stock,5.00,
+9,Drinks,Coffee Drinks with Milk,Flat White,FALSE,,In Stock,4.25,
+10,Drinks,Tea Drinks,English Breakfast Tea,FALSE,,In Stock,3.00,
+11,Drinks,Tea Drinks,Earl Grey,FALSE,,In Stock,3.25,
+12,Drinks,Tea Drinks with Milk,Chai Latte,FALSE,,In Stock,4.50,
+13,Drinks,Tea Drinks with Milk,London Fog,FALSE,,In Stock,4.75,
+14,Drinks,Other Drinks,Steamer,FALSE,,In Stock,3.00,
+15,Drinks,Other Drinks,Hot Chocolate,FALSE,,In Stock,3.50,
+16,Modifiers,Milk Options,Oat Milk,TRUE,FALSE,In Stock,,Milk option
+17,Modifiers,Milk Options,Soy Milk,TRUE,FALSE,Out of Stock,,Milk option
+18,Modifiers,Milk Options,Lactose Free 2%,TRUE,FALSE,In Stock,,Milk option
+19,Modifiers,Sweeteners,Sweetened (Sugar),TRUE,FALSE,In Stock,,Sweetener
+20,Modifiers,Sweeteners,vanilla sweetener,TRUE,FALSE,In Stock,,Sweetener
